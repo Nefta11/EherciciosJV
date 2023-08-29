@@ -1,0 +1,3 @@
+impor javax.swing.*;	//libreria de java modo gráfico
+	public class asesoria{	//creacion de la clase de java
+		public static void main (String args[]){ //Metodo de inicio llamado main
